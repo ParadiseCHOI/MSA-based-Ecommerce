@@ -1,0 +1,36 @@
+server:
+  port: 0
+
+spring:
+  jpa:
+    # 스프링부트가 기동되면서 초기 데이터를 sql 파일에 등록하고 해당 데이터 파일을 자동으로 insert
+    hibernate:
+      ddl-auto: create-drop
+    show-sql: true
+    generate-ddl: true
+    defer-datasource-initialization: true
+  application:
+    name: catalog-service
+  h2:
+    console:
+      path: /h2-console
+      enabled: true
+      settings:
+        web-allow-others: true
+  datasource:
+    url: jdbc:h2:mem:testdb
+    driver-class-name: org.h2.Driver
+
+eureka:
+  instance:
+    prefer-ip-address: true
+    instance-id: ${spring.application.name}:${spring.application.instance_id:${random.value}}
+  client:
+    fetch-registry: true
+    register-with-eureka: true
+    service-url:
+      defaultZone: http://localhost:8761/eureka
+
+logging:
+  level:
+    com.exampe.catalogservice: DEBUG

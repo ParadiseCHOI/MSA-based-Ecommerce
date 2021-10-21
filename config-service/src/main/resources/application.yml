@@ -1,0 +1,32 @@
+server:
+  port: 8888
+
+spring:
+  application:
+    name: config-service
+  rabbitmq:
+    host: 127.0.0.1
+    port: 5672
+    username: guest
+    password: 3010123
+  #  profiles:
+#    active: native
+
+  cloud:
+    config:
+      server:
+#        native:
+#          search-locations: file:///${user.home}/Work/native-file-repo
+        git:
+          uri: https://github.com/ParadiseCHOI/ecommerce-spring-cloud-config.git
+          default-label: main
+#          In case of private repository
+#          username: [your name]
+#          password: [your password]
+
+#          uri: file:///${user.home}/Work/git-local-repo
+management:
+  endpoints:
+    web:
+      exposure:
+        include: env, busenv, refresh, health, beans, busrefresh

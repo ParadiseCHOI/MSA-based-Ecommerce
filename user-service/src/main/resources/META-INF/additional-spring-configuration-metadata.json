@@ -1,0 +1,7 @@
+{
+  "properties": [
+    {
+      "name": "greeting.message",
+      "type": "java.lang.String"
+  }
+] }
