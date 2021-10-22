@@ -1,7 +1,7 @@
 # MSA-based-Ecommerce
 
-> Discovery Service
-> ==
+Discovery Service
+--
 > - #### Docker hub
 > <a href="https://hub.docker.com/repository/docker/cnw529/discovery-service">https://hub.docker.com/repository/docker/cnw529/discovery-service</a>
 > - #### Command
@@ -10,8 +10,8 @@
 > ```
 <br>
 
-> Config Service
-> ==
+Config Service
+--
 > - #### Docker hub
 > <a href="https://hub.docker.com/repository/docker/cnw529/config-service">https://hub.docker.com/repository/docker/cnw529/config-service</a>
 > - #### Command
@@ -20,8 +20,8 @@
 > ```
 <br>
 
-> MariaDB
-> ==
+MariaDB
+--
 > - #### Docker hub
 > <a href="https://hub.docker.com/repository/docker/cnw529/my-mariadb">https://hub.docker.com/repository/docker/cnw529/my-mariadb</a>
 > ```
@@ -29,8 +29,8 @@
 > ```
 <br>
 
-> API Gateway Service
-> ==
+API Gateway Service
+--
 > - #### Docker hub
 > <a href="https://hub.docker.com/repository/docker/cnw529/apigateway-service">https://hub.docker.com/repository/docker/cnw529/apigateway-service</a>
 > - #### Command
@@ -39,8 +39,8 @@
 > ```
 <br>
 
-> User Service
-> ==
+User Service
+--
 > - #### Docker hub
 > <a href="https://hub.docker.com/repository/docker/cnw529/user-service">https://hub.docker.com/repository/docker/cnw529/user-service</a>
 > - #### Command
@@ -49,8 +49,8 @@
 > ```
 <br>
 
-> Order Service
-> ==
+Order Service
+--
 > - #### Docker hub
 > <a href="https://hub.docker.com/repository/docker/cnw529/order-service">https://hub.docker.com/repository/docker/cnw529/order-service</a>
 > - #### Command
@@ -59,8 +59,8 @@
 > ```
 <br>
 
-> Catalog Service
-> ==
+Catalog Service
+--
 > - #### Docker hub
 > <a href="https://hub.docker.com/repository/docker/cnw529/catalog-service">https://hub.docker.com/repository/docker/cnw529/catalog-service</a>
 > - #### Command
