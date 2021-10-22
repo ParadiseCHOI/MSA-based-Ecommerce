@@ -2,9 +2,9 @@
 
 Discovery Service
 --
-> - #### Docker hub
-> <a href="https://hub.docker.com/repository/docker/cnw529/discovery-service">https://hub.docker.com/repository/docker/cnw529/discovery-service</a>
-> - #### Command
+> #### Docker hub
+> - <a href="https://hub.docker.com/repository/docker/cnw529/discovery-service">https://hub.docker.com/repository/docker/cnw529/discovery-service</a>
+> #### Command
 > ```
 > docker pull cnw529/discovery-service:1.0
 > ```
@@ -12,9 +12,9 @@ Discovery Service
 
 Config Service
 --
-> - #### Docker hub
-> <a href="https://hub.docker.com/repository/docker/cnw529/config-service">https://hub.docker.com/repository/docker/cnw529/config-service</a>
-> - #### Command
+> #### Docker hub
+> - <a href="https://hub.docker.com/repository/docker/cnw529/config-service">https://hub.docker.com/repository/docker/cnw529/config-service</a>
+> #### Command
 > ```
 > docker pull cnw529/config-service:1.0
 > ```
@@ -22,8 +22,9 @@ Config Service
 
 MariaDB
 --
-> - #### Docker hub
-> <a href="https://hub.docker.com/repository/docker/cnw529/my-mariadb">https://hub.docker.com/repository/docker/cnw529/my-mariadb</a>
+> #### Docker hub
+> - <a href="https://hub.docker.com/repository/docker/cnw529/my-mariadb">https://hub.docker.com/repository/docker/cnw529/my-mariadb</a>
+> #### Command
 > ```
 > docker pull cnw529/my-mariadb:1.0
 > ```
@@ -31,9 +32,9 @@ MariaDB
 
 API Gateway Service
 --
-> - #### Docker hub
-> <a href="https://hub.docker.com/repository/docker/cnw529/apigateway-service">https://hub.docker.com/repository/docker/cnw529/apigateway-service</a>
-> - #### Command
+> #### Docker hub
+> - <a href="https://hub.docker.com/repository/docker/cnw529/apigateway-service">https://hub.docker.com/repository/docker/cnw529/apigateway-service</a>
+> #### Command
 > ```
 > docker pull cnw529/apigateway-service:1.0
 > ```
@@ -41,9 +42,9 @@ API Gateway Service
 
 User Service
 --
-> - #### Docker hub
-> <a href="https://hub.docker.com/repository/docker/cnw529/user-service">https://hub.docker.com/repository/docker/cnw529/user-service</a>
-> - #### Command
+> #### Docker hub
+> - <a href="https://hub.docker.com/repository/docker/cnw529/user-service">https://hub.docker.com/repository/docker/cnw529/user-service</a>
+> #### Command
 > ```
 > docker pull cnw529/user-service:1.0
 > ```
@@ -51,9 +52,9 @@ User Service
 
 Order Service
 --
-> - #### Docker hub
-> <a href="https://hub.docker.com/repository/docker/cnw529/order-service">https://hub.docker.com/repository/docker/cnw529/order-service</a>
-> - #### Command
+> #### Docker hub
+> - <a href="https://hub.docker.com/repository/docker/cnw529/order-service">https://hub.docker.com/repository/docker/cnw529/order-service</a>
+> #### Command
 > ```
 > docker pull cnw529/order-service:1.0
 > ```
@@ -61,9 +62,9 @@ Order Service
 
 Catalog Service
 --
-> - #### Docker hub
-> <a href="https://hub.docker.com/repository/docker/cnw529/catalog-service">https://hub.docker.com/repository/docker/cnw529/catalog-service</a>
-> - #### Command
+> #### Docker hub
+> - <a href="https://hub.docker.com/repository/docker/cnw529/catalog-service">https://hub.docker.com/repository/docker/cnw529/catalog-service</a>
+> #### Command
 > ```
 > docker pull cnw529/catalog-service:1.0
 > ```
