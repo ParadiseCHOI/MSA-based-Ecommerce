@@ -13,10 +13,10 @@
 > Config Service
 > ==
 > - #### Docker hub
-> <a href="https://hub.docker.com/repository/docker/cnw529/discovery-service">https://hub.docker.com/repository/docker/cnw529/discovery-service</a>
+> <a href="https://hub.docker.com/repository/docker/cnw529/config-service">https://hub.docker.com/repository/docker/cnw529/config-service</a>
 > - #### Command
 > ```
-> docker pull cnw529/discovery-service:1.0
+> docker pull cnw529/config-service:1.0
 > ```
 <br>
 
